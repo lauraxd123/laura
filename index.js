@@ -49,4 +49,36 @@ console.log ("mensaje");
 console.log (nombre);
 //concatenado
 console.log("la edad es"+edad+"años");
+//operadores
+//suma 
 
+//residuo 
+var residuo; 
+residuo= 12%2; //0 
+console.log (residuo)
+//contadores
+//incremento (+)
+var incre= 1;
+console.log(incre);
+incre= incre+1;
+console.log(incre); 
+incre+=1;
+console.log(incre);
+incre++;
+console.log(incre);
+//decremento
+var decre= 1;
+console.log(decre);
+decre= decre-1;
+console.log(decre); 
+decre-=1;
+console.log(decre);
+decre--;
+console.log(decre);
+//cadenas o texto
+//.length
+console.log (nomCompleto.length);
+Andres
+012345
+console.log (nombre[0]);//para encontrar el caracter en la ultima posicion de una cadena o un vector se debe buscar la longitud -1(.length -1)
+console.log (nombre[nombre.length-1]);
