@@ -1,0 +1,8 @@
+Laura Medina y Sofia Torres
+
+Arreglo (observaciones generales): Nota 2
+    * lineas 55 a la 57 no cumplen ninguna funcion
+    * linea 59, llamaron a miPrimerArreglo en vez de PrimerArreglo
+    * Linea 60, mensaje de indefinido
+    * El .pop() no requiere de un valor. Siempre elimina el último elemento
+    * El ultimo arreglo en el navegador no corresponde con lo pedido en los enunciados
