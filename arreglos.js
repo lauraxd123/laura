@@ -52,12 +52,11 @@ nota: para cada punto, imprima el arreglo completo
 */ 
 var PrimerArreglo=["Analisis","tecnologia","desarrollo"];
 console.log (PrimerArreglo);
-console.log (PrimerArreglo[0][1]);
-console.log (PrimerArreglo[0][2]);
-console.log (PrimerArreglo[0][3]);
 
-miPrimerArreglo [3]="BBDD";
-console.log (PrimerArreglo [3]);
+
+PrimerArreglo [3]="BBDD";
+
+PrimerArreglo.unshift("introduccion");
 PrimerArreglo.pop("BBDD");
 console.log (PrimerArreglo);
 
