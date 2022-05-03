@@ -90,28 +90,6 @@ console.log ("la division es "+(num1/num2));
 
 //11
 
-var diaSiguiente="lunes";
-var comida;
- 
-
- 
-if(diaSiguiente == "lunes"){
-   comida="Arroz con pollo ";
-}else if(diaSiguiente == "martes"){
-    comida="chuñleta de credo/pollo";
-}else if(diaSiguiente == "miercoles"){
-    comida="frijoles"
-}else if(diasiguiente== "jueves"){
-    comida="Sancocho de Pescado";
-}else if (diasiguiente == "viernes"){
-    comida="Bandeja Paisa";
-  }else if (diasiguiente == "sabado"){
-    comida="ajiaco";
-}else if (diasiguiente == "domingo"){
-  comida="sancocho de gallina";
-}
-console.log ("el plato especial del dia de hoy es: " +comida )
-
 
 
 //12
