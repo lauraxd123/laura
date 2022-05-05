@@ -16,3 +16,9 @@ Taller 1: Nota 4.5
     * linea 56, condicion incorrecta
 
 Enlace examen: https://acortar.link/HmjOm1
+
+Examen: Nota 3.8
+    * punto 3, la condicion debía ser multiple, porque así solamente se pide el valor de la variable una vez. Además con el valor de "20", muestra dos mensajes, cuando unicamente debe mostrar el primero. No debían cambiar el código original, simplemente añadir las condiciones
+    * punto 5, imprime console.log ("este producto no lo vendemos en la tienda") siempre
+    *  //punto 6 
+    //profe no lo alcanzamos a hacer, igual usted dijo que si no alcanzabamos no pasaba nada 🤣🤣🤣
