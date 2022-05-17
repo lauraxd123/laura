@@ -84,8 +84,7 @@ if(producto == "sandwich"){
     console.log ("el precio de la salchipapa es 2800") ;
  }else if(producto == "empanada"){
     console.log ("el precio de la empanada es 1000") ;
- }
-
+ } else 
  console.log ("este producto no lo vendemos en la tienda")
 
  //punto 6 
