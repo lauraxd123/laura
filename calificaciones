@@ -32,3 +32,6 @@ examen while: Nota 5
     * linea 96, <=3.5 son notas perdidas
     * linea 103, si es menor, debe abrirse el curso
     * linea 108, yo también... me quiero 😅
+
+ciclo for: nota 5
+    * 
