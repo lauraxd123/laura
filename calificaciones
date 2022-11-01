@@ -39,3 +39,16 @@ ciclo for: nota 5 examen for 5
 geometria
     nota: 4.6
         la ultima funcion recibe tres parámetros y solo puede trabajar con dos. No va a funcionar
+
+
+
+**************cuarto periodo
+
+
+
+taller 1:
+    nota: 4.2
+        * la lista de los nombre debía ser con las etiquetas <ul> o <ol>
+        * los saltos de linea en parrafos no son con <br>, ellos bajan de renglon automáticamente
+        * la imagen debe ir en un solo renglon (linea 25)
+        * La lista de lugares debía ser con <ol>
