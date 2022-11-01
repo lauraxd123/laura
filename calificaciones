@@ -34,3 +34,8 @@ examen while: Nota 5
     * linea 108, yo también... me quiero 😅
 
 ciclo for: nota 5 examen for 5
+
+
+geometria
+    nota: 4.6
+        la ultima funcion recibe tres parámetros y solo puede trabajar con dos. No va a funcionar
